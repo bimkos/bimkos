@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: bimko923@gmai.com
+- 📫 How to reach me: bimko923@gmail.com
 
 <!--
 **bimkos/bimkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
