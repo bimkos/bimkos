@@ -4,7 +4,7 @@
 
 
 <p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimkos&&show_icons=true"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=bimkos&show_icons=true&theme=&count_private=true"/>
 </p>
 
 <p>
